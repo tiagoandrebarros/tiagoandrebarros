@@ -1,2 +1,2 @@
 ### ola 👋
-tiago.barrossilva@outlook.com
+e-mail: tiago.barrossilva@outlook.com
