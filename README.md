@@ -1,6 +1,5 @@
-### Bem vindo(a) 👋
+## Bem vindo(a) 👋
 <div style="display: inline_block">
-  <h3>Essas são minhas linguagens preferidas</h3>
   <img width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
   <img width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>
   <img width=50em src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png"/>
