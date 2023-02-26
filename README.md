@@ -1,5 +1,7 @@
-Bem vindo(a) 👋
-<h2>Sou estudante e entusiasta em áreas de tecnologia</h2></br>
+<div>
+  <h4>Bem vindo(a) 👋</h4>
+  <h2>Sou estudante e entusiasta em áreas de tecnologia</h2></br>
+</div>
 <div style="display: inline_block">
   <h3>Linguagens</h3>
   <img alt="icone_javascript" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
@@ -20,7 +22,6 @@ Bem vindo(a) 👋
   <img alt="icone_mongodb" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img alt="icone_sqlite" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
-<div>
-  <h4>Contato</h4>
-  <a href="mailto: tiago.barrossilva@outlook.com">tiago.barrossilva@outlook.com</a>
+<div align="center">
+  <h4>E-mail para contato <a href="mailto: tiago.barrossilva@outlook.com">tiago.barrossilva@outlook.com</a></h4>
 </div>
