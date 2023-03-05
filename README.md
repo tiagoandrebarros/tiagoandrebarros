@@ -23,6 +23,6 @@
   <img alt="icone_sqlite" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
 <div align="center">
-  <a href="mailto: tiago.barrossilva@outlook.com"><img alt="icone_outlook" width=50em src="https://cdn-icons-png.flaticon.com/512/732/732223.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto: tiago.barrossilva@outlook.com"><img alt="icone_outlook" width=50em src="https://cdn-icons-png.flaticon.com/512/2165/2165056.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tiago-barros-a63593205/"><img alt="icone_linkedin" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
