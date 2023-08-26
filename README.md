@@ -9,6 +9,9 @@
   <img alt="icone_c" width=50em src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png"/>
   <img alt="icone_c++" width=50em src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"/>
   <img alt="icone_java" width=50em src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/>
+  <img alt="icone_html" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img alt="icone_css" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="icone_css" width=50em src="https://cdn-icons-png.flaticon.com/128/2286/2286723.png"/>
 </div>
 <div>
   <h3>Tecnologias e Frameworks</h3>
