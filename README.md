@@ -1,6 +1,6 @@
 <div>
-  <h4>Bem vindo(a) 👋</h4>
-  <h2>Sou estudante e entusiasta em áreas de tecnologia</h2></br>
+  <h2>Bem vindo(a) 👋</h2>
+  </br>
 </div>
 <div style="display: inline_block">
   <h3>Linguagens</h3>
