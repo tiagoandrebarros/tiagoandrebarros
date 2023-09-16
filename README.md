@@ -1,5 +1,10 @@
 <div>
-  <h2>Bem vindo(a) 👋</h2>
+  <div align="right">
+    <h4>Contato&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+    <a href="mailto: tiago.barrossilva@outlook.com"><img alt="icone_outlook" width=50em src="https://cdn-icons-png.flaticon.com/512/2165/2165056.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/tiago-barros-a63593205/"><img alt="icone_linkedin" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  </div>
+  <h2>Bem vindo(a) ao meu perfil👋</h2>
   </br>
 </div>
 <div style="display: inline_block">
@@ -26,8 +31,9 @@
   <img alt="icone_sqlite" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
 </br>
+</br>
+</br>
 <div align="center">
-  <h4>Contato</h4>
-  <a href="mailto: tiago.barrossilva@outlook.com"><img alt="icone_outlook" width=50em src="https://cdn-icons-png.flaticon.com/512/2165/2165056.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tiago-barros-a63593205/"><img alt="icone_linkedin" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+   <h4>Visitas no mês atual</h4>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/tiagobarrossilva/count.svg" /></p>
 </div>
