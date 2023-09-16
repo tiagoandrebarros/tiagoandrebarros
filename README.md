@@ -3,7 +3,7 @@
     <h2>Bem vindo(a) ao meu perfil👋</h2>
   </div>
   <div align="right">
-    <h4>Contato&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+    <h4>Contato&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
     <a href="mailto: tiago.barrossilva@outlook.com"><img alt="icone_outlook" width=50em src="https://cdn-icons-png.flaticon.com/512/2165/2165056.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/tiago-barros-a63593205/"><img alt="icone_linkedin" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   </div>
