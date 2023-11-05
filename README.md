@@ -33,6 +33,5 @@
 </br>
 </br>
 <div align="center">
-   <h4>Visitas no mês atual</h4>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/tiagobarrossilva/count.svg" /></p>
 </div>
