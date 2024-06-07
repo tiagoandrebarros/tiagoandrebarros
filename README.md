@@ -21,7 +21,7 @@
 <div>
   <img alt="icone_nodejs" width=50em src="https://cdn-icons-png.flaticon.com/128/919/919825.png"/>  
   <img alt="icone_react" width=50em src="https://cdn-icons-png.flaticon.com/128/3334/3334886.png"/>
-  <img alt="icone_react" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+  <img alt="icone_bootstrap" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
   <img alt="icone_arduino" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 </br>
