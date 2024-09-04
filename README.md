@@ -3,8 +3,7 @@
     <h2>Bem vindo(a) ao meu perfil👋</h2>
   </div>
   <div align="right">
-    <h4>Contato</h4>
-    <a href="mailto: tiago.barrossilva@outlook.com"><img alt="icone_outlook" width=50em src="https://cdn-icons-png.flaticon.com/512/2165/2165056.png"/></a>
+    <span>E-mail para contato: <a href="mailto: tiago.barrossilva@outlook.com">tiago.barrossilva@outlook.com</a></span>
   </div>
 </div>
 <h3>Essas são as linguagens e tecnologias que mais uso atualmente</h3>
