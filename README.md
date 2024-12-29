@@ -10,8 +10,7 @@
 </br>
 <div>
   <img alt="icone_javascript" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
-  <img alt="icone_python" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>
-  <img alt="icone_c" width=50em src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png"/>
+  <img alt="icone_python" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>  
   <img alt="icone_c++" width=50em src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"/>
   <img alt="icone_html" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img alt="icone_css" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
