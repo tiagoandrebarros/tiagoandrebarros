@@ -31,6 +31,3 @@
 </div>
 </br>
 </br>
-<div align="center">
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/tiagobarrossilva/count.svg" /></p>
-</div>
