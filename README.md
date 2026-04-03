@@ -11,25 +11,30 @@
 <div>
   <img alt="icone_javascript" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
   <img alt="icone_c++" width=50em src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"/>
-  <img alt="icone_python" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>  
-  <img alt="icone_java" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>         
+  <img alt="icone_python" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>           
   <img alt="icone_html" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img alt="icone_css" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
 </div>
 </br>
 <div>
-  <img alt="icone_nodejs" width=50em src="https://cdn-icons-png.flaticon.com/128/919/919825.png"/>  
-  <img alt="icone_react" width=50em src="https://cdn-icons-png.flaticon.com/128/3334/3334886.png"/>
+  <img alt="icone_nodejs" width=50em src="https://cdn-icons-png.flaticon.com/128/919/919825.png"/>
   <img alt="icone_bootstrap" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
   <img alt="icone_arduino" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img alt="icone_electron" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
-  <img alt="icone_spring" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="icone_raspberry" width=50em  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img alt="icone_electron" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>  
 </div>
 </br>
 <div>
   <img alt="icone_postgresql" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"/>
   <img alt="icone_mongodb" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img alt="icone_sqlite" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+</div>
+</br>
+</br>
+<h3>Estudando/Aperfeiçoando atualmente nas tecnologias abaixo</h3>
+<div>
+  <img alt="icone_java" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="icone_spring" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
 </br>
 </br>
