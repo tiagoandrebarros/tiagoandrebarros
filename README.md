@@ -31,7 +31,7 @@
 </div>
 </br>
 </br>
-<h3>Estudando/Aperfeiçoando atualmente nas tecnologias abaixo</h3>
+<h3>Estudando/Aperfeiçoando nas tecnologias abaixo</h3>
 <div>
   <img alt="icone_java" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="icone_spring" width=50em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
