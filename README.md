@@ -6,7 +6,7 @@
     <span>E-mail para contato: <a href="mailto: tiago.barrossilva@outlook.com">tiago.barrossilva@outlook.com</a></span>
   </div>
 </div>
-<h3>Essas são as linguagens e tecnologias que mais uso atualmente</h3>
+<h3>Essas são as linguagens e tecnologias que mais uso</h3>
 </br>
 <div>
   <img alt="icone_javascript" width=50em src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
